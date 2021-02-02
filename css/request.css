@@ -1,0 +1,28 @@
+.request{
+    background: #F7654A;
+    color: #FFF;
+    font-family: "Oswald";
+    margin-top: 150px;
+}
+.request__content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.request__title{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.request__subtitle{
+    font-size: 24px;
+}
+.request__right{
+    background: #FFFFFF;;
+    align-self: center;
+    padding: 14px 30px;
+    color: #000;
+}
+a{
+    text-decoration:none;
+    color: #000;
+}

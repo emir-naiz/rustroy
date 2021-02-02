@@ -1,0 +1,28 @@
+.redline{
+    background: #F7654A;
+    color: #FFF;
+    font-family: "Oswald";
+    margin-top: 150px;
+}
+.redline__content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.redline__title{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.redline__subtitle{
+    font-size: 24px;
+}
+.redline__right{
+    background: #FFFFFF;;
+    align-self: center;
+    padding: 14px 30px;
+    color: #000;
+}
+a{
+    text-decoration:none;
+    color: #000;
+}

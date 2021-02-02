@@ -1,0 +1,10 @@
+.end{
+    font-family: "Open Sans";
+    background: #404149;
+}
+.end__content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: #FFFFFF;;
+}

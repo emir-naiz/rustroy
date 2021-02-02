@@ -1,0 +1,34 @@
+@import "./header.css";
+@import "./hero.css";
+@import "./arena.css";
+@import "./redline.css";
+@import "./office.css";
+@import "./building.css";
+@import "./answer.css";
+@import "./partners.css";
+@import "./reviews.css";
+@import "./request.css";
+@import "./contact.css";
+@import "./end.css";
+
+@font-face{
+    src: url(../fonts/Oswald.ttf);
+    font-family: "Oswald";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+

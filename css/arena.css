@@ -1,0 +1,33 @@
+.arena{
+    margin-top: 250px;
+    font-family: "Oswald";
+}
+.arena__sector{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.arena__box{
+    max-width: 350px;
+}
+.arena__line{
+    margin-top: 45px;
+    margin-bottom: 15px;
+    height: 6px;
+    width: 55px;
+    background: #ff0000;
+}
+.arena__title{
+    font-size: 36px;
+    font-weight: 500;
+    color: #404149;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.arena__name{
+    color: #404149;
+    font-size: 24px;
+}
+.arena__description{
+    color: #999999;
+}

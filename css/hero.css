@@ -1,0 +1,48 @@
+.hero{
+    background: center url(../img/Rectangle.png) no-repeat;
+    padding: 140px 0;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    font-family: "Oswald";
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+}
+.hero__title{
+    font-size: 64px;
+    margin-bottom: 35px;
+    font-weight: 500;
+}
+.hero__subtitle{ 
+    font-size: 18px;
+    text-align: center;
+    font-weight: normal;
+}
+.hero__box{
+    margin: 3px 0;
+    border-radius: 1px;
+    margin-bottom: 100px;
+}
+.hero__sector{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: #F7F7F7;
+    padding: 57px 0;
+    margin: 170px 0 -300px 0;
+}
+.hero__number{
+    font-size: 72px;
+    color: #F7654A;
+}
+.hero__year{
+    font-size: 36px;
+    color: #000000;
+}
+.hero__market{
+    font-size: 18px;
+    color: #999999;
+    text-transform: lowercase;
+}
